@@ -2,6 +2,11 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.0.4] - 2024-10-07
+
+- Update terminal styles
+- use uniform color for borders
+
 ## [1.0.3] - 2024-10-07
 
 - Fix preview images

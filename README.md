@@ -1,9 +1,5 @@
 # Minimal Mist
 
-<p style="text-align: center;">
-  <img src="media/icon.png" width="128xpx"/>
-</p>
-
 Experience a breath of fresh air with Minimal Mist, a VSCode theme designed for those who appreciate simplicity and elegance.
 
 [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mubaidr.minimal-mist)
@@ -31,7 +27,7 @@ Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who
 
 <img src="media/welcome-banner-rounded.png"/>
 
-## Additional Settings for Minimal Wrokspace
+## Optional (Settings for Minimal Workspace)
 
 You can also use following settings (my current setup) to reduce clutter and make your workspace even more minimal, without scrificing any functionality. Add these settings to your `settings.json` file in VSCode to achieve the same look as in the screenshots above:
 
