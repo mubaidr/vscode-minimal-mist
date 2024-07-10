@@ -1,0 +1,49 @@
+{
+  "author": {
+    "email": "mubaidr@gmail.com",
+    "name": "Muhammad Ubaid Raza",
+    "url": "http://mubaidr.js.org"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal Mist",
+        "path": "./themes/minimal-mist-color-theme.json",
+        "uiTheme": "vs"
+      }
+    ]
+  },
+  "description": "Experience a breath of fresh air with Minimal Mist, a VSCode theme designed for those who appreciate simplicity and elegance.",
+  "displayName": "Minimal Mist",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "galleryBanner": {
+    "color": "#f6f5f0",
+    "theme": "light"
+  },
+  "homepage": "https://github.com/mubaidr/vscode-minimal-mist",
+  "icon": "media/icon.png",
+  "keywords": [
+    "minimal",
+    "mist",
+    "clean",
+    "theme",
+    "vscode",
+    "visual-studio-code",
+    "color",
+    "syntax",
+    "highlighting"
+  ],
+  "license": "Apache-2.0",
+  "name": "minimal-mist",
+  "publisher": "mubaidr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mubaidr/vscode-minimal-mist.git"
+  },
+  "version": "1.0.0"
+}
