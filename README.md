@@ -21,8 +21,8 @@ Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who
 
 ### Typescript
 
-<img src="media/typescript-banner-rounded.PNG"/>
+<img src="media/typescript-banner-rounded.png"/>
 
 ### Welcome Screen
 
-<img src="media/welcome-banner-rounded.PNG"/>
+<img src="media/welcome-banner-rounded.png"/>
