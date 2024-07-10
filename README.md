@@ -23,6 +23,38 @@ Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who
 
 <img src="media/typescript-banner-rounded.png"/>
 
+### File Explorer View
+
+<img src="media/explorer-banner-rounded.png"/>
+
 ### Welcome Screen
 
 <img src="media/welcome-banner-rounded.png"/>
+
+## Additional Settings for Minimal Wrokspace
+
+You can also use following settings (my current setup) to reduce clutter and make your workspace even more minimal, without scrificing any functionality. Add these settings to your `settings.json` file in VSCode to achieve the same look as in the screenshots above:
+
+```jsonc
+"editor.renderLineHighlight": "none",
+"editor.scrollbar.vertical": "hidden",
+"explorer.decorations.badges": false,
+"git.decorations.enabled": false,
+"window.commandCenter": false,
+"window.menuBarVisibility": "compact",
+"window.titleBarStyle": "custom",
+"workbench.editor.decorations.badges": false,
+"workbench.editor.decorations.colors": false,
+"workbench.editor.tabActionCloseVisibility": false,
+"workbench.editor.tabSizing": "fixed",
+"workbench.editor.tabSizingFixedMaxWidth": 240,
+"workbench.editor.tabSizingFixedMinWidth": 180,
+"workbench.layoutControl.enabled": false,
+"workbench.panel.defaultLocation": "right",
+"workbench.reduceMotion": "on",
+"workbench.sideBar.location": "right",
+"workbench.statusBar.visible": false,
+"workbench.tree.enableStickyScroll": false,
+"workbench.tree.indent": 22,
+"workbench.tree.renderIndentGuides": "none",
+```
