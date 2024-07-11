@@ -2,7 +2,11 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
-## [1.0.4] - 2024-10-07
+## [1.0.5] - 2024-12-07
+
+- use border color from main theme family
+
+## [1.0.4] - 2024-11-07
 
 - Update terminal styles
 - use uniform color for borders
