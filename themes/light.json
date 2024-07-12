@@ -1,7 +1,5 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Minimal Mist",
-  "type": "light",
   "colors": {
     "actionBar.toggledBackground": "#dddddd",
     "activityBar.activeBorder": "#005fb8",
