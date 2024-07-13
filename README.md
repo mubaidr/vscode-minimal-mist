@@ -11,11 +11,11 @@ Experience a breath of fresh air with Minimal Mist, a VSCode theme designed for 
 - Streamlined Borders: Borders have been simplified, minimized, or removed, providing a clean and focused workspace.
 - Clean Look: A refined, distraction-free interface that lets you focus on what matters most - your code.
 
-### Dark Theme
+### Now With Dark Theme
 
 For those who prefer a darker interface, Minimal Mist now offers a dark theme option. Experience the same minimalist design with a new dark twist:
 
-- Calm Dark Background: A darker shade #3c3b36 to provide a soothing environment for night-time coding sessions.
+- Calm Dark Background: A darker shade #313130 to provide a soothing environment for night-time coding sessions.
 - Enhanced Contrast: Text and code elements are clearly visible, reducing eye strain while maintaining the theme's elegant simplicity.
 - Unified Design: The dark theme maintains the streamlined, shadow-free design and simplified borders for a cohesive look.
 
@@ -31,7 +31,7 @@ Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who
 
 ### File Explorer View
 
-<img src="media/explorer-light.png"/>
+<img src="media/empty-light.png"/>
 
 ### Dark Variant
 
@@ -41,7 +41,7 @@ Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who
 
 ### File Explorer View
 
-<img src="media/explorer-dark.png"/>
+<img src="media/empty-dark.png"/>
 
 ## Optional (Settings for Minimal Workspace)
 
