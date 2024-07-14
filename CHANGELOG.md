@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.1.1] - 2024-12-07
+
+- Improve titlebar/ header styles
+
 ## [1.1.0] - 2024-12-07
 
 - Improve panel header styles

@@ -450,7 +450,7 @@
     //"quickInputList.focusBackground": "#e8e8e8",
     //"quickInputList.focusForeground": "#000000",
     //"quickInputList.focusIconForeground": "#000000",
-    //"quickInputTitle.background": "#0000000f",
+    "quickInputTitle.background": "#ff000000",
     //"remoteHub.decorations.addedForegroundColor": "#587c0c",
     //"remoteHub.decorations.conflictForegroundColor": "#ad0707",
     //"remoteHub.decorations.deletedForegroundColor": "#ad0707",
