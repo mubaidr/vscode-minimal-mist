@@ -2,8 +2,6 @@
 
 Experience a breath of fresh air with Minimal Mist, a VSCode theme designed for those who appreciate simplicity and elegance.
 
-[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mubaidr.minimal-mist)
-
 ## Features
 
 - Subtle Background: Enjoy the soft and soothing background color #f6f5f0, reducing eye strain and creating a calm coding environment.

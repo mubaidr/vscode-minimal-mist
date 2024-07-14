@@ -4,6 +4,10 @@ All notable changes to the "minimal-mist" extension will be documented in this f
 
 ## [1.1.0] - 2024-12-07
 
+- Improve panel header styles
+
+## [1.1.0] - 2024-12-07
+
 - Initial version of dark variant
 
 ## [1.0.5] - 2024-12-07
