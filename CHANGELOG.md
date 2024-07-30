@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.1.4] - 2024-23-07
+
+- Add sideBar.border with minimal contrast for area highlight
+
 ## [1.1.2] - 2024-23-07
 
 - Remove sideBarSectionHeader & sideBar.border
