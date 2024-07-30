@@ -23,21 +23,21 @@ Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who
 
 ### Light Variant
 
-### Typescript
+#### Typescript
 
 <img src="media/typescript-light.png"/>
 
-### File Explorer View
+#### Empty
 
 <img src="media/empty-light.png"/>
 
 ### Dark Variant
 
-### Typescript
+#### Typescript
 
 <img src="media/typescript-dark.png"/>
 
-### File Explorer View
+#### Empty
 
 <img src="media/empty-dark.png"/>
 
