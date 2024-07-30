@@ -4,12 +4,16 @@ Experience a breath of fresh air with Minimal Mist, a VSCode theme designed for 
 
 ## Features
 
+Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who value a clean, minimalist aesthetic.
+
+### Light Theme
+
 - Subtle Background: Enjoy the soft and soothing background color #f6f5f0, reducing eye strain and creating a calm coding environment.
 - Shadow-Free Design: With shadows disabled, the interface feels lighter and less cluttered.
 - Streamlined Borders: Borders have been simplified, minimized, or removed, providing a clean and focused workspace.
 - Clean Look: A refined, distraction-free interface that lets you focus on what matters most - your code.
 
-### Now With Dark Theme
+### Dark Theme
 
 For those who prefer a darker interface, Minimal Mist now offers a dark theme option. Experience the same minimalist design with a new dark twist:
 
@@ -17,29 +21,35 @@ For those who prefer a darker interface, Minimal Mist now offers a dark theme op
 - Enhanced Contrast: Text and code elements are clearly visible, reducing eye strain while maintaining the theme's elegant simplicity.
 - Unified Design: The dark theme maintains the streamlined, shadow-free design and simplified borders for a cohesive look.
 
-Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who value a clean, minimalist aesthetic.
+### White Theme
+
+For those who prefer a darker interface, Minimal Mist now offers a dark theme option. Experience the same minimalist design with a new dark twist:
+
+- Calm Dark Background: A darker shade #faf9f8 to provide a soothing environment for night-time coding sessions.
+- Enhanced Contrast: Text and code elements are clearly visible, reducing eye strain while maintaining the theme's elegant simplicity.
+- Unified Design: The dark theme maintains the streamlined, shadow-free design and simplified borders for a cohesive look.
 
 ## Preview
 
 ### Light Variant
 
-#### Typescript
-
-<img src="media/typescript-light.png"/>
-
-#### Empty
-
-<img src="media/empty-light.png"/>
+<img src="media/4.png"/>
 
 ### Dark Variant
 
-#### Typescript
+<img src="media/3.png"/>
 
-<img src="media/typescript-dark.png"/>
+### White Variant
 
-#### Empty
+<img src="media/5.png"/>
 
-<img src="media/empty-dark.png"/>
+### Explorer
+
+<img src="media/2.png"/>
+
+### Command Center
+
+<img src="media/1.png"/>
 
 ## Optional (Settings for Minimal Workspace)
 

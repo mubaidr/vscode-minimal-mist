@@ -15,6 +15,11 @@
         "uiTheme": "vs"
       },
       {
+        "label": "Minimal Mist White",
+        "path": "./themes/white.json",
+        "uiTheme": "vs"
+      },
+      {
         "label": "Minimal Mist Dark",
         "path": "./themes/dark.json",
         "uiTheme": "vs-dark"
@@ -50,5 +55,5 @@
     "type": "git",
     "url": "git+https://github.com/mubaidr/vscode-minimal-mist.git"
   },
-  "version": "1.1.4"
+  "version": "1.2.0"
 }
