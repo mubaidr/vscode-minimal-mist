@@ -2,11 +2,15 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
-## [1.2.0] - 2024-23-07
+## [1.2.1] - 2024-31-07
+
+- Fixed description for White theme variant
+
+## [1.2.0] - 2024-30-07
 
 - Intoruced White theme variant
 
-## [1.1.4] - 2024-23-07
+## [1.1.4] - 2024-26-07
 
 - Add sideBar.border with minimal contrast for area highlight
 
