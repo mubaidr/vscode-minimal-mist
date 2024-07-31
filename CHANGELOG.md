@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.2.3] - 2024-31-07
+
+- Optimize minimap colors
+
 ## [1.2.2] - 2024-31-07
 
 - Cleanup terminal scroll bar area
