@@ -2,7 +2,11 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
-## [1.3.0.] - 2024-05-08
+## [1.3.1] - 2024-05-08
+
+- Added preview image for new theme Amber
+
+## [1.3.0] - 2024-05-08
 
 - Added new theme Amber
 - Improve input colors

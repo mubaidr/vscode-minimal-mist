@@ -51,6 +51,10 @@ For those who prefer a Brighter interface, Minimal Mist now offers a Amber theme
 
 ![White Variant](media/5.png)
 
+### Amber Variant
+
+![Amber Variant](media/6.png)
+
 ### Other UI Elements Preview
 
 #### Explorer
