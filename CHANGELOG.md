@@ -2,6 +2,13 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.3.0.] - 2024-05-08
+
+- Added new theme Amber
+- Improve input colors
+- improve dialog colors
+- improve widget colors
+
 ## [1.2.3] - 2024-31-07
 
 - Optimize minimap colors

@@ -23,9 +23,17 @@ For those who prefer a darker interface, Minimal Mist now offers a dark theme op
 
 ### White Theme
 
-For those who prefer a lighter interface, Minimal Mist now offers a white theme option. Experience the same minimalist design with a bright twist:
+For those who prefer a lighter interface, Minimal Mist now offers a white theme option. Experience the same minimalist design with a light twist:
 
 - **Calm Light Background**: A lighter shade #faf9f8 to provide a soothing environment for daytime coding sessions.
+- **Enhanced Contrast**: Text and code elements are clearly visible, reducing eye strain while maintaining the theme's elegant simplicity.
+- **Unified Design**: The white theme maintains the streamlined, shadow-free design and simplified borders for a cohesive look.
+
+### Amber Theme
+
+For those who prefer a Brighter interface, Minimal Mist now offers a Amber theme option. Experience the same minimalist design with a bright twist:
+
+- **Calm Light Background**: A lighter shade #fcf3d9 to provide a soothing environment for evening coding sessions.
 - **Enhanced Contrast**: Text and code elements are clearly visible, reducing eye strain while maintaining the theme's elegant simplicity.
 - **Unified Design**: The white theme maintains the streamlined, shadow-free design and simplified borders for a cohesive look.
 
