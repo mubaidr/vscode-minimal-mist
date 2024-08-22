@@ -108,7 +108,7 @@
     "dropdown.border": "#ecebe5",
     "dropdown.foreground": "#3b3b3b",
     "dropdown.listBackground": "#ffffff",
-    "editor.background": "#f6f5f0",
+    "editor.background": "#f0efea",
     "editor.foreground": "#3b3b3b",
     // "editor.inactiveSelectionBackground": "#e5ebf1",
     "editor.selectionHighlightBackground": "#add6ff80",
