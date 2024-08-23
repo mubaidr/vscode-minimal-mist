@@ -16,7 +16,7 @@
       },
       {
         "label": "Minimal Mist Alternative",
-        "path": "./themes/light.json",
+        "path": "./themes/light-alternate.json",
         "uiTheme": "vs"
       },
       {
@@ -65,5 +65,5 @@
     "type": "git",
     "url": "git+https://github.com/mubaidr/vscode-minimal-mist.git"
   },
-  "version": "1.4.0"
+  "version": "1.4.1"
 }
