@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.4.0] - 2024-23-08
+
+- Introduce new theme Minimal Mist Alternative
+
 ## [1.3.1] - 2024-05-08
 
 - Added preview image for new theme Amber

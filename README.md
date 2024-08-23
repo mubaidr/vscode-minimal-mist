@@ -13,6 +13,13 @@ Embrace the elegance of simplicity with Minimal Mist. Perfect for developers who
 - **Streamlined Borders**: Borders have been simplified, minimized, or removed, providing a clean and focused workspace.
 - **Clean Look**: A refined, distraction-free interface that lets you focus on what matters most - your code.
 
+### Alternative Light Theme
+
+- **Subtle Background**: Enjoy the soft and soothing background color #f0efea, differentiating just a bit from the ui elemnts to highlight editor area.
+- **Shadow-Free Design**: With shadows disabled, the interface feels lighter and less cluttered.
+- **Streamlined Borders**: Borders have been simplified, minimized, or removed, providing a clean and focused workspace.
+- **Clean Look**: A refined, distraction-free interface that lets you focus on what matters most - your code.
+
 ### Dark Theme
 
 For those who prefer a darker interface, Minimal Mist now offers a dark theme option. Experience the same minimalist design with a new dark twist:
@@ -42,6 +49,10 @@ For those who prefer a Brighter interface, Minimal Mist now offers a Amber theme
 ### Light Variant
 
 ![Light Variant](media/4.png)
+
+### Alternative Light Variant
+
+![Light Variant](media/7.png)
 
 ### Dark Variant
 
