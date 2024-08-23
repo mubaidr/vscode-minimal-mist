@@ -2,7 +2,7 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
-## [1.4.1] - 2024-23-08
+## [1.4.2] - 2024-23-08
 
 - Fix typo
 
