@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.4.3] - 2024-24-08
+
+- Simplify Tab Styles
+
 ## [1.4.2] - 2024-23-08
 
 - Fix typo
