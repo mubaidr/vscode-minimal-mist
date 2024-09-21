@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.4.5] - 2024-22-09
+
+- Improve panel border looks
+
 ## [1.4.3] - 2024-24-08
 
 - Simplify Tab Styles
