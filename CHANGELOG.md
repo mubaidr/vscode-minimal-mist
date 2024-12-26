@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-mist" extension will be documented in this file.
 
+## [1.4.6] - 2024-26-12
+
+- Improve border for all panels
+
 ## [1.4.5] - 2024-22-09
 
 - Improve panel border looks
