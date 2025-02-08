@@ -10,8 +10,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "Minimal Mist",
+        "label": "Minimal Mist Light",
         "path": "./themes/light.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Minimal Mist Amber Light",
+        "path": "./themes/amber-light.json",
         "uiTheme": "vs"
       },
       {
@@ -20,14 +25,14 @@
         "uiTheme": "vs"
       },
       {
-        "label": "Minimal Mist Amber",
-        "path": "./themes/amber.json",
-        "uiTheme": "vs"
-      },
-      {
         "label": "Minimal Mist White",
         "path": "./themes/white.json",
         "uiTheme": "vs"
+      },
+      {
+        "label": "Minimal Mist Amber Dark",
+        "path": "./themes/amber-dark.json",
+        "uiTheme": "vs-dark"
       },
       {
         "label": "Minimal Mist Dark",
@@ -65,5 +70,5 @@
     "type": "git",
     "url": "git+https://github.com/mubaidr/vscode-minimal-mist.git"
   },
-  "version": "1.4.6"
+  "version": "1.5.0"
 }
